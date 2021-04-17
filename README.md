@@ -1,6 +1,6 @@
 # About
 
-This was my first homework in Computer Graphics class.
+This was my first homework in Computer Graphics class. Navigate into About folder and there is an Instructions.pdf. There it explains what this project is and how it works.
 
 # App Looks Like
 
